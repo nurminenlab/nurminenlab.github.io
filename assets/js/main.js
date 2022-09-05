@@ -34,7 +34,7 @@ function(data) {
   //$("#blogDescription1").html(description);
 
 });
-$.get('https://cors-anywhere.herokuapp.com/https://medium.com/@jindalkanika02/hello-world-of-tensorflow-js-25650cc12f0e', 
+$.get('https://medium.com/@sandhyaammasi/create-filters-with-posenet-and-ml5-js-c3ad97681a9e', 
 function(data) {
   var im = $(data).filter('meta[name="twitter:image:src"]').attr("content");
   $("#blogImage2").attr("src",im);
