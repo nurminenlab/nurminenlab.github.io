@@ -29,7 +29,7 @@ a {
 
 a:hover {
 
-  color:#C70039 ;
+  color:#000000 ;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -39,7 +39,7 @@ a:hover {
 }
 
 .color-a {
-  color: #C70039 ;
+  color: #000000 ;
 }
 
 .color-d {
@@ -91,7 +91,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #C70039 ;
+  background-color: #000000 ;
 }
 
 .overlay-mf {
@@ -158,7 +158,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #C70039 ;
+  background-color: #000000 ;
   margin: 0 auto;
 }
 
@@ -176,7 +176,7 @@ a:hover {
   content: '';
   position: absolute;
   height: 3px;
-  background-color: #C70039 ;
+  background-color: #000000 ;
   width: 200px;
   bottom: -12px;
 }
@@ -240,7 +240,7 @@ a:hover {
 }
 
 .list-ico span {
-  color: #C70039 ;
+  color: #000000 ;
   margin-right: 10px;
 }
 
@@ -253,7 +253,7 @@ a:hover {
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px #C70039 ;
+  box-shadow: 0 0 0 10px #000000 ;
   display: block;
 }
 
@@ -298,7 +298,7 @@ a:hover {
   position: fixed;
   width: 42px;
   height: 42px;
-  background-color: #C70039 ;
+  background-color: #000000 ;
   opacity: .7;
   font-size: 1.6rem;
   line-height: 1.5;
@@ -316,7 +316,7 @@ a:hover {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #C70039 ;
+  background: #000000 ;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -359,7 +359,7 @@ a:hover {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #C70039 ;
+  border-top: 6px solid #000000 ;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -413,7 +413,7 @@ a:hover {
 }
 
 .button-a {
-  background-color: #C70039 ;
+  background-color: #000000 ;
   color: #fff;
   border-color: #cde1f8;
 }
@@ -524,26 +524,26 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .nav-link {
-  color: #C70039 ;
+  color: #000000 ;
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
-  background-color: #C70039 ;
+  background-color: #000000 ;
 }
 
 .navbar-b.navbar-reduce .nav-link:hover {
-  color: #C70039  ;
+  color: #000000  ;
 }
 
 .navbar-b.navbar-reduce .show > .nav-link,
 .navbar-b.navbar-reduce .active > .nav-link,
 .navbar-b.navbar-reduce .nav-link.show,
 .navbar-b.navbar-reduce .nav-link.active {
-  color: #C70039 ;
+  color: #000000 ;
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
-  color: #C70039 ;
+  color: #000000 ;
 }
 
 .navbar-b.navbar-reduce .navbar-toggler span {
@@ -574,13 +574,13 @@ a:hover {
 }
 
 .navbar-b .dropdown-menu .dropdown-item:hover {
-  background-color: #C70039 ;
+  background-color: #000000 ;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .navbar-b .dropdown-menu .dropdown-item.active {
-  background-color: #C70039 ;
+  background-color: #000000 ;
 }
 
 /*--/ Hamburger Navbar /--*/
@@ -705,7 +705,7 @@ a:hover {
 
 .intro-single .breadcrumb {
   background-color: transparent;
-  color: #C70039 ;
+  color: #000000 ;
 }
 
 .intro-single .breadcrumb .breadcrumb-item:before {
@@ -758,7 +758,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: .7rem;
-  background-color: #C70039 ;
+  background-color: #000000 ;
 }
 
 /*--------------------------------------------------------------
@@ -774,7 +774,7 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #C70039 ;
+  background-color: #000000 ;
   box-shadow: 0 0 0 10px #cde1f8;
 }
 
@@ -862,17 +862,17 @@ a:hover {
 }
 
 .work-content .w-more .w-ctegory {
-  color: #C70039 ;
+  color: #000000 ;
 }
 
 .work-content .w-like {
   font-size: 2.5rem;
-  color: #C70039 ;
+  color: #000000 ;
   float: right;
 }
 
 .work-content .w-like a {
-  color: #C70039 ;
+  color: #000000 ;
 }
 
 .work-content .w-like .num-like {
@@ -914,7 +914,7 @@ a:hover {
 
 .testimonial-box .comit {
   font-size: 2rem;
-  color: #C70039 ;
+  color: #000000 ;
   background-color: #fff;
   width: 52px;
   height: 52px;
@@ -962,7 +962,7 @@ a:hover {
 
 .php-email-form .validate {
   display: none;
-  color: red;
+  color: rgb(0, 0, 0);
   margin: 0 0 15px 0;
   font-weight: 400;
   font-size: 13px;
@@ -971,7 +971,7 @@ a:hover {
 .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #ed3c0d;
+  background: #000000;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1013,7 +1013,7 @@ a:hover {
 }
 
 .php-email-form input::focus, .php-email-form textarea::focus {
-  background-color: #C70039 ;
+  background-color: #000000 ;
 }
 
 .php-email-form input {
@@ -1026,7 +1026,7 @@ a:hover {
 }
 
 .php-email-form button[type="submit"] {
-  background: #C70039 ;
+  background: #000000 ;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1083,7 +1083,7 @@ a:hover {
   color: #fff;
   padding: 0 15px 5px;
   overflow: hidden;
-  background-color: #C70039 ;
+  background-color: #000000 ;
   border-radius: 4px;
 }
 
@@ -1151,7 +1151,7 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul {
-  border-left: 4px solid #C70039 ;
+  border-left: 4px solid #000000 ;
   margin-top: 1rem;
 }
 
@@ -1161,7 +1161,7 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul a {
-  color: #C70039 ;
+  color: #000000 ;
 }
 
 .blog-wrapper .post-meta ul span {
@@ -1169,7 +1169,7 @@ a:hover {
 }
 
 .blog-wrapper .blockquote {
-  border-left: 4px solid #C70039 ;
+  border-left: 4px solid #000000 ;
   padding: 18px;
   font-style: italic;
 }
@@ -1206,7 +1206,7 @@ a:hover {
 }
 
 .box-comments .list-comments a {
-  color: #C70039 ;
+  color: #000000 ;
 }
 
 .box-comments .list-comments span {
@@ -1222,7 +1222,7 @@ a:hover {
 .widget-sidebar .sidebar-title {
   font-size: 1.6rem;
   font-weight: 600;
-  border-left: 5px solid #C70039 ;
+  border-left: 5px solid #000000 ;
   padding-left: 15px;
   text-transform: uppercase;
   margin-bottom: 1.5rem;
@@ -1239,7 +1239,7 @@ a:hover {
   width: 10px;
   height: 1px;
   left: 0;
-  background-color: #C70039 ;
+  background-color: #000000 ;
   top: 20px;
 }
 
@@ -1250,8 +1250,8 @@ a:hover {
 }
 
 .sidebar-search .btn-search {
-  background-color: #C70039 ;
-  border-color: #C70039 ;
+  background-color: #000000 ;
+  border-color: #000000 ;
   border-radius: 0;
   padding-left: 20px;
   padding-right: 20px;
@@ -1259,7 +1259,7 @@ a:hover {
 
 .widget-tags ul li {
   display: inline-block;
-  background-color: #C70039 ;
+  background-color: #000000 ;
   padding: .2rem .6rem;
   margin-bottom: .5rem;
   border-radius: 15px;
@@ -1276,7 +1276,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #C70039 ;
+  background: #000000 ;
 }
 
 footer .copyright {
